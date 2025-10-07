@@ -64,7 +64,7 @@ This design is specifically tuned for **JBC C245 soldering cartridge control**, 
 
 Refer to the following image for the recommended wiring and setup:
 
-![C245 Configuration Diagram](./images.png)
+![C245 Configuration Diagram](/image.png)
 
 ---
 
