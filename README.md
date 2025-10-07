@@ -22,7 +22,7 @@ The setup is ideal for **C245 soldering configurations** or similar high-precisi
 ## Hardware Requirements
 - **Arduino Uno / Nano**
 - **MAX6675 thermocouple amplifier**
-- **K-type thermocouple**
+- **C245 iron tip**
 - **MOSFET driver circuit (high-side switching recommended)**
 - **LCD I2C display (16x2)**
 - **10k potentiometer**
